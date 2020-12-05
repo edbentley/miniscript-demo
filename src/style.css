@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header-row {
+  height: 50px;
+}
+.dropdown {
+  margin: 10px;
+  padding: 5px;
+}
+
+.editor {
+  height: 100%;
+  border: 1px solid #ccc;
+}
+
+/* style="width: 800px; height: 600px; border: 1px solid #ccc" */
