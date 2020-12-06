@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
+  font-family: Menlo, Monaco, "Courier New", monospace;
 }
 
 .loading {
@@ -15,6 +16,9 @@ body {
 .dropdown {
   margin: 10px;
   padding: 5px;
+}
+.source-link {
+  font-size: 12px;
 }
 
 .editor {
